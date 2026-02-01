@@ -1,4 +1,4 @@
-        name: Run Hello Script
+name: Run Hello Script
 
 on:
   push:
